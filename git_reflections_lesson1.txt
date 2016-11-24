@@ -1,0 +1,14 @@
+Using diff I was able to find directly the lines that are different from each other between the two lines. This tremendously decreased the time to find a bug going through lines one by one. This has benefits regarding time, and health, as it can can get very boring and tdiuos checking each and every line between two files. 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If I have access to the entire history of a file, I can learn from my mistakes, and inefficiencies and improve on my coding. This way, by I can become an efficient programmer. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+The files in programming might be realted to each other. Thus, keeping them as a repository will be more useful. While saving all the files in the repository will be saved as well.
+
+
+
+
